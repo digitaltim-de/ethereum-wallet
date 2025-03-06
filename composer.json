@@ -25,6 +25,6 @@
     "require": {
         "PHP": ">=7.1",
     	"web3p/ethereum-util": "^0.1",
-        "bitwasp/bitcoin": "^1.0"
+        "bitwasp/bitcoin": "dev-master"
     }
 }
