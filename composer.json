@@ -23,8 +23,7 @@
         }
     },
     "require": {
-        "PHP": ">=7.1",
-    	"web3p/ethereum-util": "^0.1",
-        "bitwasp/bitcoin": "dev-master"
+        "PHP": ">=8.0",
+    	"web3p/ethereum-util": "^0.1"
     }
 }
